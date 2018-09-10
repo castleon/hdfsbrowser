@@ -1,0 +1,35 @@
+.hdfsbrowser_input {
+	float: left;
+	width: 80%;
+	height: 30px;
+}
+
+.hdfsbrowser_button {
+	float: right;
+	width: 15%;
+	height: 30px;
+}
+
+.hdfsbrowser_div {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.hdfsbrowser_widget {
+	display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.hdfsbrowser_span {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
